@@ -1,3 +1,8 @@
+# Part-2 : Search UI that updates with every character entered by user.
+
+Search UI created using the music dataset available at https://developer.musixmatch.com/documentation/api-methods. The LyricFinder API, returns the list of songs, which match the title track name as entered by user, and display the top-10 tracks related to search term. The project is developed using npx create react app, used to search song lyrics using Reacts built in context API along with the Musixmatch public API.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
